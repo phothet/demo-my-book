@@ -1,1 +1,3 @@
 # CHAPTER 3
+
+This is how everything started...
